@@ -86,10 +86,6 @@ Governança descentralizada utilizando contratos inteligentes no Ethereum, com d
   - Ferramentas para medir e relatar o impacto dos projetos.
   - Relatórios periódicos compartilhados com todos os membros.
 
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre nosso código de conduta e o processo de envio de pull requests.
-
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
